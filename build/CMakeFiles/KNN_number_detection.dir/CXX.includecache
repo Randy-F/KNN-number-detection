@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/randy/slam/number_detection/KNN_number_detection/src/KNN_number_detection.cpp
+KNN_number_detection.h
+/home/randy/slam/number_detection/KNN_number_detection/src/KNN_number_detection.h
+
+/home/randy/slam/number_detection/KNN_number_detection/src/KNN_number_detection.h
+iostream
+-
+opencv2/ml/ml.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/opencv.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+string
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar cq libKNN_number_detection.a  CMakeFiles/KNN_number_detection.dir/src/KNN_number_detection.cpp.o
+/usr/bin/ranlib libKNN_number_detection.a

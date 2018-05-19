@@ -1,0 +1,2 @@
+/home/randy/slam/number_detection/KNN_number_detection/build/CMakeFiles/testNumDetection.dir
+/home/randy/slam/number_detection/KNN_number_detection/build/CMakeFiles/KNN_number_detection.dir
